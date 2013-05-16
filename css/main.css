@@ -54,7 +54,7 @@ form label {font-weight:bold;}
 -----------------------------------------*/
 
 #container {
-	position:relative;
+	position:absolute;
 	margin:10px auto 010px auto;
 	width:960px;
 	background:#FFF;
@@ -70,7 +70,7 @@ form label {font-weight:bold;}
 	height:140px;
 }
 #logo {
-	position:absolute;
+	position:relative;
 	top:20px; left:20px;	
 	background:url(../images/drumbeat_logo.png);
 	width:300px; height:82px;
