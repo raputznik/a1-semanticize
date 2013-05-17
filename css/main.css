@@ -64,11 +64,12 @@ form label {font-weight:bold;}
 	border:1px solid #CCC;
 }
 
-#header {
+header {
 	float:left;
 	width:960px;
 	height:140px;
 }
+
 #logo {
 	position:relative;
 	top:20px; left:20px;	
